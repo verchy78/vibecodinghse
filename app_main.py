@@ -19,7 +19,7 @@ import ai_client
 from tts import Speaker
 from voice_input import VoiceRecordWorker, TranscribeWorker
 
-APP_NAME = "Моё приложение"
+APP_NAME = "Внучечек"
 SUBTITLE = "локальная нейросеть Qwen"
 WELCOME = (
     "Привет! 👋 Я Qwen и работаю прямо на твоём компьютере, без облака. "
